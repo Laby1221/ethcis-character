@@ -79,55 +79,55 @@
         {
             "id":"5-1",
             "name":"孔子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-2",
             "name":"孟子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-3",
             "name":"荀子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-4",
             "name":"韓非子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-5",
             "name":"墨子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-6",
             "name":"朱子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-7",
             "name":"王陽明",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-8",
             "name":"老子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"5-9",
             "name":"荘子",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         }
 
@@ -137,43 +137,43 @@
         {
             "id":"6-1",
             "name":"レオナルドダヴィンチ",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"6-2",
             "name":"ピコ・デラ・ミランドラ",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"6-3",
             "name":"マキャベリ",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"6-4",
             "name":"ルター",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"6-5",
             "name":"カルヴァン",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"6-6",
             "name":"モンテーニュ",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"6-7",
             "name":"パスカル",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         }
         
@@ -183,25 +183,19 @@
         {
             "id":"7-1",
             "name":"ベーコン",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
+            "thought":"人間は自然についての知を獲得することによって、自然を支配することが可能となり、生活を豊かにすることができる（知は力なり）と主張した。",
+            "keyword":["帰納法","種族のイドラ","洞窟のイドラ","市場のイドラ","劇場のイドラ"]
         },
         {
             "id":"7-2",
             "name":"デカルト",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
+            "thought":"感覚的な経験よりも理性を重んじ、理性を知識の源泉とみなした。誰にでも理性が備わっており、それを正しく用いることで正しい認識に至ることができると説いた。",
+            "keyword":["合理論","方法的懐疑","私は考える、それゆえに私はある","演繹的","物心二元論","方法序説","明証の規則","分析の規則","綜合の規則","枚挙の規則"]
         },
         {
             "id":"7-3",
             "name":"ロック",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
-        },
-        {
-            "id":"7-4",
-            "name":"ロック",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         }
         
@@ -210,31 +204,31 @@
         {
             "id":"8-1",
             "name":"ホッブス",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["リバイアサン","産婆法","助産法"]
+            "thought":"自然状態において人間は、自分自身の生命を保存するために、自らの力を好きなように用いる自然権をもっており、この自然権が存続している限り、いかなる人間にも安全はまったく保障されないと説いた。",
+            "keyword":["リバイアサン"]
         },
         {
             "id":"8-2",
             "name":"ロック",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
+            "thought":"自然状態においては、個人の生命・財産の所有などの自然権は、自然法により確保されている。だが、人間同士の争いが生じた場合、誰がどのように裁くのかは恣意的なものになる可能性があると考えた。",
+            "keyword":["市民政府二論（統治二論、統治論二論、市民政府論）"]
         },
         {
             "id":"8-3",
             "name":"ルソー",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
+            "thought":"自然状態の人間は、自己愛と憐憫の情をもち、まだ虚栄心や軽蔑を知らず、そこには所有権のような観念もまだ存在しなかったと説いた。",
+            "keyword":["社会契約論"]
         },
         {
             "id":"8-4",
             "name":"カント",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
+            "thought":"「啓蒙とは、精神の未成年状態から脱却することである。」と定義し、迷信などに代わって人間の理性こそが行動・判断のよりどころになると説いたドイツの哲学者。",
+            "keyword":["観念論","唯物論","理論理性","実践理性","コペルニクス的転回","義務","善意思","定言命法","仮言命法","動機説","人格主義"]
         },
         {
             "id":"8-5",
             "name":"ヘーゲル",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         }
         
@@ -243,64 +237,128 @@
         {
             "id":"9-1",
             "name":"アダム・スミス",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"各人の自由な利己心の追求が、まるで「（神の）見えざる手」が働くように、かえって社会全体の利益（公益）を増進させると説いた。",
             "keyword":["リバイアサン","産婆法","助産法"]
         },
         {
             "id":"9-2",
             "name":"ベンサム",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-3",
             "name":"ミル",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-4",
             "name":"コント",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
-            "keyword":["無知の知","産婆法","助産法"]
+            "thought":"経験的事実によって検証可能な知識を重視する「実証主義」を提唱した人物。人間の知識の発展段階を三つに分け、知識は実証的段階において最高の段階に達すると論じた",
+            "keyword":["神学的段階","","実証的段階"]
         },
         {
             "id":"9-5",
             "name":"スペンサー",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-6",
             "name":"ベルクソン",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-7",
             "name":"オーウェン",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-5",
             "name":"サン・シモン",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-6",
             "name":"フーリエ",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         },
         {
             "id":"9-7",
             "name":"マルクス",
-            "thought":"jhsfahujleknanieurfhnahojfrlijj",
+            "thought":"",
             "keyword":["無知の知","産婆法","助産法"]
         }
         
+    ],
+    "10":[
+        {
+            "id":"10-1",
+            "name":"聖徳太子",
+            "thought":"",
+            "keyword":["十七条憲法","『三経義疏』","助産法"]
+        },
+        {
+            "id":"10-2",
+            "name":"鑑真",
+            "thought":"唐から来日した、日本の律宗の開祖。東大寺に戒壇をもうけ、官僧育成の基礎を築いた。",
+            "keyword":["戒壇","授戒僧","私度僧","具足戒（小乗戒）"]
+        },
+        {
+            "id":"10-3",
+            "name":"行基",
+            "thought":"官許を得ていない「私度僧」と呼ばれる修行者を率いて諸国を巡り、救済施設の設置や土木事業を行って人々の信望を集め、後に東大寺の大仏の造立にも加わった。",
+            "keyword":["戒壇","授戒僧","私度僧"]
+        },
+        {
+            "id":"10-4",
+            "name":"最澄",
+            "thought":"中国に渡り、法華経を重視する天台宗を学んだ最澄は、帰国後、日本天台宗を開き、命あるものはすべて成仏することができるとする一乗思想を説いた。",
+            "keyword":["一切衆生愁有仏性","比叡山","延暦寺","菩薩戒（大乗戒、大乗菩薩戒）"]
+        },
+        {
+            "id":"10-5",
+            "name":"空海",
+            "thought":"中国に渡り、密教を学んだ。高野山に金剛峯寺を建立し、真言宗を広めた。京都で綜芸種智院を設立し、庶民教育にも努めた。",
+            "keyword":["密教","加持祈祷","三密の行","大日如来","即身成仏","曼荼羅"]
+        }
+    ],
+    "11":[
+        {
+            "id":"11-1",
+            "name":"法然",
+            "thought":"比叡山で学問・修行を重ねる中で、源信の『往生要集』に関心をいただき、そこに引用される唐の善導の思想に強く惹かれていった。",
+            "keyword":["浄土宗","他力本願","専修念仏","南無阿弥陀仏"]
+        },
+        {
+            "id":"11-2",
+            "name":"親鸞",
+            "thought":"念仏弾圧を受けて越後国へ流罪となった。法然の教えに触れ入門しているが、自らは肉食妻帯するなど在家の民衆の立場に身を置き、「非僧非俗」と称して念仏と布教に努めた。",
+            "keyword":["浄土真宗","絶対他力","自然法爾","悪人正機説"]
+        },
+        {
+            "id":"11-3",
+            "name":"栄西",
+            "thought":"日本に臨済宗を広めた。末法の時代であっても、禅の修行により優れた人物が育つことが鎮護国家をもたらすと考え、その主張を『興禅護国論』を著して示した。",
+            "keyword":["看話禅","『喫茶養生記』","延暦寺"]
+        },
+        {
+            "id":"11-4",
+            "name":"道元",
+            "thought":"日本に曹洞宗を広めた道元は、末法思想を否定し、自力による悟りの体得を説いた。",
+            "keyword":["曹洞宗","只管打座","黙照禅","身心脱落","人々みな仏法の器（機）なり","心身放下","検証一等"]
+        },
+        {
+            "id":"11-5",
+            "name":"日蓮",
+            "thought":"日本に臨済宗を広めた。末法の時代であっても、禅の修行により優れた人物が育つことが鎮護国家をもたらすと考え、その主張を『興禅護国論』を著して示した。",
+            "keyword":["看話禅","『喫茶養生記』","延暦寺"]
+        }
     ]
     
 }

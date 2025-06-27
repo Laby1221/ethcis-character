@@ -59,6 +59,11 @@ document.addEventListener("DOMContentLoaded", function () {
             createBoxes("tab-7", "7");
             createBoxes("tab-8", "8");
             createBoxes("tab-9", "9");
+            createBoxes("tab-10", "10");
+            createBoxes("tab-11", "11");
+            createBoxes("tab-12", "12");
+            createBoxes("tab-13", "13");
+
         })
         .catch(error => console.error("JSON読み込みエラー:", error));
 });
