@@ -5,7 +5,7 @@ body {
     font-weight: 400;
     font-style: normal;
     background-image: linear-gradient(0deg, transparent calc(100% - 1px), #f0f0f0 calc(100% - 1px)),
-        linear-gradient(90deg, transparent calc(100% - 1px), #d9d9d9 calc(100% - 1px));
+        linear-gradient(90deg, transparent calc(100% - 1px), #d9d9d994 calc(100% - 1px));
     background-size: 16px 16px;
     background-repeat: repeat;
     background-position: center center;
@@ -109,7 +109,7 @@ body {
 
     }
     .thought,.keyword{
-        background-color: #d9d9d9;
+        background-color: #d9d9d978;
         padding: 8px;
     }
     .thought{
